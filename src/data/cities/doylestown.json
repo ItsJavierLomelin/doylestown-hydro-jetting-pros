@@ -472,7 +472,14 @@
           "h": "Drain cleaning around Portage Street",
           "ps": [
             "Village Hall stands on South Portage Street, and the village park description names three Portage Street park entrances.",
-            "This page covers a central street corridor inside Doylestown. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a central street corridor inside Doylestown. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A central address with more than one entrance",
+          "ps": [
+            "The village describes several park entrances from Portage Street, while Village Hall uses South Portage Street. A service request needs the exact building, not a nearby landmark alone. For a multi-entrance property, confirm which door or access point reaches the affected fixtures and who can admit the person assessing the line."
           ]
         },
         {
@@ -518,6 +525,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Village Hall stands on South Portage Street, and the village park description names three Portage Street park entrances. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a central address with more than one entrance?",
+          "a": "The village describes several park entrances from Portage Street, while Village Hall uses South Portage Street. A service request needs the exact building, not a nearby landmark alone. For a multi-entrance property, confirm which door or access point reaches the affected fixtures and who can admit the person assessing the line."
         }
       ],
       "cta": "Request Hydro Jetting near Portage Street",
@@ -536,7 +547,14 @@
           "h": "Drain cleaning around Gates Street",
           "ps": [
             "The village identifies Gates Street as the main entrance to Memorial Park.",
-            "This page covers a park-adjacent street area inside Doylestown. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a park-adjacent street area inside Doylestown. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A park-adjacent drain request",
+          "ps": [
+            "Memorial Park\u2019s main entrance is on Gates Street, but a nearby house or business has its own drain responsibilities. State whether the symptom is inside that building or in outdoor space. Water near the street after rain should be described separately from wastewater rising from a floor drain."
           ]
         },
         {
@@ -582,6 +600,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The village identifies Gates Street as the main entrance to Memorial Park. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a park-adjacent drain request?",
+          "a": "Memorial Park\u2019s main entrance is on Gates Street, but a nearby house or business has its own drain responsibilities. State whether the symptom is inside that building or in outdoor space. Water near the street after rain should be described separately from wastewater rising from a floor drain."
         }
       ],
       "cta": "Request Hydro Jetting near Gates Street",
@@ -600,7 +622,14 @@
           "h": "Drain cleaning around Hilltop Drive",
           "ps": [
             "The village identifies Hilltop Drive as an approach to the upper pavilion at Memorial Park.",
-            "This page covers a hilltop street area inside Doylestown. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a hilltop street area inside Doylestown. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Runoff or wastewater on a hilltop street",
+          "ps": [
+            "The village names Hilltop Drive as an approach to its upper pavilion. At an individual property, explain whether water appears outside after rain or backs up through a plumbing fixture. The location\u2019s elevation does not prove which system is involved; that distinction should guide who assesses it."
           ]
         },
         {
@@ -646,6 +675,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The village identifies Hilltop Drive as an approach to the upper pavilion at Memorial Park. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about runoff or wastewater on a hilltop street?",
+          "a": "The village names Hilltop Drive as an approach to its upper pavilion. At an individual property, explain whether water appears outside after rain or backs up through a plumbing fixture. The location\u2019s elevation does not prove which system is involved; that distinction should guide who assesses it."
         }
       ],
       "cta": "Request Hydro Jetting near Hilltop Drive",
