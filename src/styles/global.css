@@ -123,3 +123,7 @@ img{max-width:100%}
 @media(max-width:600px){.fx-circle{display:none!important}}
 
 .sec .sec-kicker,.svc .eb{color:#9b3b0b!important}
+
+@media(max-width:600px){[data-parallax-stage]>.fx-circle,.hero .fx-circle,.hero-inner .fx-circle,.hero-form-wrap .fx-circle{display:none!important}}
+
+.step .num{color:#647994!important}
