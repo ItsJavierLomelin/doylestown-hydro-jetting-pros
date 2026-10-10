@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://itsjavierlomelin.github.io/doylestown-hydro-jetting-pros/sitemap.xml
+Sitemap: https://doylestownhydrojetting.prosapp.site/sitemap.xml
